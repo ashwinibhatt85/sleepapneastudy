@@ -19,7 +19,7 @@ For past 5+ years, I have had numerous conversations on this topic with my 'true
 - Can it be cured/controlled over time? How?
 
 ## File Descriptions
-- A jupyter notebook with markdown cells and comments added throughout to explain the process taken to gather, asses, clean,transform and analyze the sleep apnea data.
+- A jupyter notebook with markdown cells and comments added throughout to explain the process taken to gather, asses, clean, transform and analyze the sleep apnea data.
 - A csv file that contains the sleep apnea study data of 50 patients along with their sleep architecture & apnea metrics, demographics, BMI and lifestyle suggesting details.
 
 ## Medium Blog Post 
