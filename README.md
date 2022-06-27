@@ -13,10 +13,10 @@ No additional installations beyond the Anaconda distribution of Python and Jupyt
 
 For past 5+ years, I have had numerous conversations on this topic with my 'true partner' and her colleagues, over countless coffees, numerous dinners and so much more. Using a set of raw data from the study conducted in the Sleep Research Lab at VA Medical Centre in Detroit, I am trying to answer the following questions by doing an exploratory data analysis on the subject.
 
-- Does being of a specific race predisposes you to have sleep apnea?
-- How does one’s lifestyle affects sleep apnea? Activity, health, exercise, stress
-- What factors are major influencers of sleep apnea? AHI, BMI, age, race, gender, bp, sugar, diet, smoking/drinking, presence of gene, socio economic status 
-- Can it be cured/controlled over time? How?
+- What role does Race play over the Preventable factors and their impacts over Sleep Apnea?
+- What affect does Race have in the non-Preventable factors and their impacts over Sleep Apnea?
+- Can Sleep Apnea be cured or for that matter even controlled/managed over time? If yes, how?
+- How are these factors influencing the severity of the disease and its treatment?
 
 ## File Descriptions
 - A jupyter notebook with markdown cells and comments added throughout to explain the process taken to gather, asses, clean, transform and analyze the sleep apnea data.
