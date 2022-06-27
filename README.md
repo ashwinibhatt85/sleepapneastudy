@@ -15,12 +15,12 @@ For past 5+ years, I have had numerous conversations on this topic with my 'true
 
 - Does being of a specific race predisposes you to have sleep apnea?
 - How does one’s lifestyle affects sleep apnea? Activity, health, exercise, stress
-- What factors are major influencers of sleep apnea? Ahi, bmi, age, race, gender, bp, sugar, diet, smoking/drinking, presence of gene, socio economic status 
+- What factors are major influencers of sleep apnea? AHI, BMI, age, race, gender, bp, sugar, diet, smoking/drinking, presence of gene, socio economic status 
 - Can it be cured/controlled over time? How?
 
 ## File Descriptions
 - A jupyter notebook with markdown cells and comments added throughout to explain the process taken to gather, asses, clean, transform and analyze the sleep apnea data.
-- A csv file that contains the sleep apnea study data of 50 patients along with their sleep architecture & apnea metrics, demographics, BMI and lifestyle suggesting details.
+- A csv file that contains the sleep apnea study data of 200+ patients along with their sleep architecture & apnea metrics, demographics, BMI and lifestyle suggesting details.
 
 ## Medium Blog Post 
 The main findings of the code can be found at the Medium Blog post available

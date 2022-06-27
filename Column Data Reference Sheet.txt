@@ -1,0 +1,19 @@
+Greatly Reduced		5
+Somewhat Reduced    4
+Not Sure            3
+Slightly Reduced    2
+Not At All Reduced  1
+
+
+F Fresh Meals
+P Packed or Frozen Meals
+
+AA  African American
+CAUC  Caucacian 
+
+UG UnderGraduate
+HS High School
+PG Post Graduate
+
+A Active
+S Sedentary
