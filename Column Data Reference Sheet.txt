@@ -1,0 +1,28 @@
+Greatly Reduced		5
+Somewhat Reduced    4
+Not Sure            3
+Slightly Reduced    2
+Not At All Reduced  1
+
+
+F Fresh Meals
+P Packed or Frozen Meals
+
+AA  African American
+CAUC  Caucacian 
+
+UG UnderGraduate
+HS High School
+PG Post Graduate
+
+A Active
+S Sedentary
+
+What are the Stages of Life?
+Infant = 0-1 year.
+Toddler = 2-4 yrs.
+Child = 5-12 yrs.
+Teen = 13-19 yrs.
+Young Adult = 20-39 yrs.
+Middle Age Adult = 40-59 yrs.
+Senior Adult = 60+
